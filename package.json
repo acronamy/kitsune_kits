@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "_args": [
     [
       "git+https://github.com/acronamy/kitsune_kits.git",
@@ -52,12 +53,30 @@
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "readmeFilename": "readme.md",
+=======
+  "name": "kitsune_kits",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Crockett",
+  "license": "ISC",
+>>>>>>> 1f7ea058b581b4a240fb89d862caed516985c0b6
   "repository": {
     "type": "git",
     "url": "git+https://github.com/acronamy/kitsune_kits.git"
   },
+<<<<<<< HEAD
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "version": "1.0.0"
+=======
+  "bugs": {
+    "url": "https://github.com/acronamy/kitsune_kits/issues"
+  },
+  "homepage": "https://github.com/acronamy/kitsune_kits#readme",
+  "description": ""
+>>>>>>> 1f7ea058b581b4a240fb89d862caed516985c0b6
 }
